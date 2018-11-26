@@ -22,7 +22,7 @@ class SimpleComponent extends Component {
           mood: "happy"
         },console.log(newMood))
       }
-    
+
   }
 
   render() {
